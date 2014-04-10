@@ -17,7 +17,7 @@
     "start": "node ./"
   },
   "dependencies": {
-    "express": ">=3.0",
+    "express": "3.4.8",
     "optimist": ">=0.3",
     "pem": "~1.2.2",
     "q": "~0.9.3",
